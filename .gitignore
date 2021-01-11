@@ -1,3 +1,9 @@
+# Generated files
+dist
+
+# IDE generated
+.idea
+
 # Logs
 logs
 *.log
