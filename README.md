@@ -1,2 +1,4 @@
-# react-nextjs-useCurrentRoute
-React Hook for strongly-typed access to the current route, and pushing strongly-typed changes
+# `next-current-route`
+React Hook for strongly-typed access to the current NextJS route, and for pushing strongly-typed changes
+
+# API
