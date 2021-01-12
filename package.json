@@ -2,7 +2,7 @@
   "name": "next-current-route",
   "version": "0.1.0",
   "description": "React Hook for strongly-typed access to the current route, and pushing strongly-typed changes",
-  "main": "dist/useCurrentRoute.js",
+  "main": "dist/index.js",
   "files": [
     "dist",
     "src"
@@ -27,6 +27,7 @@
     "url": "https://github.com/scottrippey/react-next-useCurrentRoute/issues"
   },
   "homepage": "https://github.com/scottrippey/react-next-useCurrentRoute#readme",
+  "dependencies": {},
   "peerDependencies": {
     "next": "^10.0.0",
     "react": "^17.0.0"
