@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scottrippey/react-next-useCurrentRoute.git"
+    "url": "git+https://github.com/scottrippey/next-current-route.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/scottrippey/react-next-useCurrentRoute/issues"
+    "url": "https://github.com/scottrippey/next-current-route/issues"
   },
-  "homepage": "https://github.com/scottrippey/react-next-useCurrentRoute#readme",
+  "homepage": "https://github.com/scottrippey/next-current-route#readme",
   "dependencies": {},
   "peerDependencies": {
     "next": "^10.0.0",
