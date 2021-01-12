@@ -1,6 +1,6 @@
 {
   "name": "next-current-route",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React Hook for strongly-typed access to the current route, and pushing strongly-typed changes",
   "main": "dist/index.js",
   "files": [
